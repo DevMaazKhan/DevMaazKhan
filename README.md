@@ -38,9 +38,3 @@ Maaz Masood Khan is a self-taught JavaScript Developer. I have professional expe
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100017504611131" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/devMaazkhan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/devMaazkhan"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=devMaazkhan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
