@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 JavaScript Developer
 --------------------
 
-Maaz Masood Khan is a self-taught JavaScript Developer. I have professional experience of years as a Full Stack Developer, working on enterprise level Applications. Alongside working on Web I also have experience with Mobile Applications.
+Hi there, I'm Maaz Masood Khan, a self-taught developer with years of experience building web and mobile applications. I hold a Bachelor's degree in Information Technology and have a passion for developing innovative solutions to real-world problems. My expertise includes Full Stack Development and Mobile Application Development. I'm always looking for new challenges and opportunities to expand my skillset.
 
 * 🌍  I'm based in Hyderabad, PK
 
